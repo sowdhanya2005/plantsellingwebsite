@@ -51,8 +51,8 @@ export default function Medicinal() {
             <img src={im1} alt="Sneha and Sagar Wedding" style={{height: '260px',
    }} />
             <div class="gallery-info">
-            <h3>Sesbania grandiflora(Agathi Keerai)</h3>
-                <p><b>Uses: </b>Extracts from Agathi Keerai have been used to treat ailments such as rheumatism, digestive disorders, and skin conditions. Its leaves are also valued for their cooling properties, particularly during hot summer months.</p>
+            <h3>Ocimum Sanctum</h3>
+                <p><b>Uses:aiding cough, asthma, diarrhea, fever, dysentery, arthritis, eye diseases, indigestion, gastric ailments, etc </b></p>
         { /* <h4>Rs 10 per gm</h4>*/}
            </div>
           
